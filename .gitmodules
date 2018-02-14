@@ -4,3 +4,7 @@
 [submodule "themes/one"]
 	path = themes/one
 	url = https://github.com/resugary/hugo-theme-one.git
+[submodule "public"]
+	path = public
+	url = git@github.com:guersam/guersam.github.io.git
+	branch = master
