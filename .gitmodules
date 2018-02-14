@@ -1,10 +1,11 @@
 [submodule "themes/journal"]
 	path = themes/journal
 	url = https://github.com/damiencaselli/hugo-journal.git
-[submodule "themes/one"]
-	path = themes/one
-	url = https://github.com/resugary/hugo-theme-one.git
 [submodule "public"]
 	path = public
 	url = git@github.com:guersam/guersam.github.io.git
+	branch = master
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
 	branch = master
