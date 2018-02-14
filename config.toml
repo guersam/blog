@@ -1,0 +1,15 @@
+DefaultContentLanguage = "ko"
+
+baseURL = "https://guersam.com/"
+title = "Finally began"
+theme = "one"
+
+[params]
+  navigation = ["archives.md", "about.md"]
+
+[languages]
+[languages.ko]
+weight = 1
+
+[languages.en]
+weight = 2
