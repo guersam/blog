@@ -9,3 +9,7 @@
 	path = themes/cactus
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
 	branch = master
+[submodule "themes/kiera"]
+	path = themes/kiera
+	url = https://github.com/avianto/hugo-kiera.git
+	branch = master
