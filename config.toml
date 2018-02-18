@@ -1,14 +1,17 @@
-DefaultContentLanguage = "ko"
-
 baseURL = "https://guersam.com/"
 title = "guersam.com"
 copyright = "Copyright &copy; 2018 guersam"
-canonifyurls = true
+
+DefaultContentLanguage = "ko"
+hasCJKLanguage = true
+
 theme = "kiera"
+
+pygmentsCodeFences = true
+pygmentsStyle = "trac"
 
 paginate = 3
 
-summaryLength = 30
 enableEmoji = true
 
 googleAnalytics = "UA-40336130-4"
